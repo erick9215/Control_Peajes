@@ -1,0 +1,32 @@
+{
+  "name": "traffic_control_system_beta",
+  "version": "0.0.1",
+  "description": "Traffic control system using arduino and NodeJS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreyyec/trafficControlSystem.git"
+  },
+  "keywords": [
+    "arduino",
+    "nodejs",
+    "raspberry",
+    "raspberrypi",
+    "traffic",
+    "control",
+    "system"
+  ],
+  "author": "Andrey Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreyyec/trafficControlSystem/issues"
+  },
+  "homepage": "https://github.com/andreyyec/trafficControlSystem#readme",
+  "devDependencies": {
+    "mongodb": "^2.2.25",
+    "serialport": "^4.0.7"
+  }
+}
