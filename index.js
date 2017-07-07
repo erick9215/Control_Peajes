@@ -5,5 +5,3 @@ console.log('init');
 const serialManager = require('./Application/scripts/serialManager.js');
 
 let sManager = new serialManager();
-
-//comentario
